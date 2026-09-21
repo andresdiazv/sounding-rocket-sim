@@ -11,6 +11,8 @@ The goal is to figure out the air density at every step of the flight from 0m to
 - air density, like air pressure, decreases with increasing altitude. 
     - this is because density decreases as temperature increases (gets hotter)
     - it also changes with variations in atmospheric pressure, temperature, and humidity.
+- constants:\
+- <img width="411" height="221" alt="image" src="https://github.com/user-attachments/assets/6d1c0caf-50b2-4f07-bdc4-ba30637ff9ee" />
 - temperature in Kelvin at altitude h (meters) above sea level is calculated using:\
 ![alt text](image.png)
 - pressure at altitude h is calculated using:\
